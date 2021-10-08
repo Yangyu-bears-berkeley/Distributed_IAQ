@@ -11,6 +11,9 @@ Main data:
   
 Main files: 
 1) Parameters.m ---- main settings
-2) TempMain.m ----- upper-level thermal comfort control
-3) CO2Main.m ----- lower-level IAQ control 
+2) Main.m --- main file
+3) TempMain.m ----- upper-level thermal comfort control
+4) CO2Main.m ----- lower-level IAQ control 
 
+Main results:
+![image](https://user-images.githubusercontent.com/43568200/136521349-cda8d349-1217-4ed3-9104-64b05320cdcb.png)
